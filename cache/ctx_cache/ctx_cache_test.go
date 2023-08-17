@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"zjx/project/util/rpc"
+	"zjx/project/rpc"
 )
 
 const (
